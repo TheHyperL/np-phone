@@ -26,5 +26,5 @@ server_scripts {
   'config.lua',
   'server/sv_*.lua',
 }
-
+ -- Hyper:)))
 lua54 'yes'
